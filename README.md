@@ -1,2 +1,2 @@
-# SAMAN-KI-LIST, You can make alist of things using the ogiven project
-https://blankk1.github.io/SAMAN-KI-LIST/
+# TO-DO-LIST, You can make a list of things to do using the given project
+https://blankk1.github.io/TO-DO-LIST/
